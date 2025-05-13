@@ -3,7 +3,7 @@ We have been approached by an Analytics Consultant from a movie review website. 
 
 Movie Rating.csv- Excel sheet given to us  
 
-MovieRating Analysis with R- Visualisation with ggplot  
+MovieRating Analysis with R- Visualisation with ggplot (Compilation of R plots)  
 
 movierating.R- R program file of the project
 
