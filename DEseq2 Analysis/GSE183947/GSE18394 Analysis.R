@@ -2,7 +2,7 @@
 library(DESeq2)
 library(ggplot2)
 library(GEOquery)
-library(dbplyr)
+library(dplyr)
 library(tidyverse)
 
 # Load the data
